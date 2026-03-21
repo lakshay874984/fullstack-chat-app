@@ -1,4 +1,5 @@
 🚀 Chat Application
+---
 🔹 Overview
 A full-stack real-time chat application that allows users to send messages instantly, upload images, and see online user status.
 
