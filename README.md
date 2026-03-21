@@ -19,6 +19,9 @@ A full-stack real-time chat application that allows users to send messages insta
   - 🖼 Image sharing in chat
   - ⚡ Fast and responsive UI
 
+## 📸 Screenshots
+
+<img src="Screenshot 2026-03-21 165901.png" width="400"/>
 
 ---
 🔗 Live Demo
